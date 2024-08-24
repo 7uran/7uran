@@ -3,6 +3,9 @@
 <br>
 
 
+## Social Accounts
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prdcx?igsh=NHczZDRkODF6OXds&utm_source=qr)
 
 
 ### 🚀 My Tech Stack:

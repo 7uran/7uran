@@ -6,6 +6,7 @@
 ## Social Accounts
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prdcx?igsh=NHczZDRkODF6OXds&utm_source=qr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turan-hamdullayev-622b70286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 ### 🚀 My Tech Stack:
